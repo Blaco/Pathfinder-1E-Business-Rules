@@ -1,1 +1,1 @@
-https://blaco.github.io/Pathfinder-Business-Rules/
+https://blaco.github.io/Pathfinder-1E-Business-Rules/
